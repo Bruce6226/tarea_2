@@ -1,1 +1,1 @@
-# tarea_2
+# Tarea 2, creación de un buscador boolean
